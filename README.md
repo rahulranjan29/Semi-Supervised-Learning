@@ -11,8 +11,8 @@ Papers related to the use of unlabeled data for improving performance of classif
 - Semisupervised learning with deep generative models.
 [[pdf]](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
 
--Regularization with stochastic transformations and perturbations for deep semi-supervised learning.
+- Regularization with stochastic transformations and perturbations for deep semi-supervised learning.
 [[pdf]](https://arxiv.org/pdf/1606.04586.pdf)
 
--Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.
+- Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.
 [[pdf]](https://arxiv.org/pdf/1703.01780.pdf)
