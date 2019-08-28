@@ -6,7 +6,7 @@ Papers related to the use of unlabeled data for improving performance of classif
 [[pdf]](http://people.cs.uchicago.edu/~niyogi/papersps/BNSJMLR.pdf)
 
 - Learning with pseudo-ensembles.
-[[pdf]])(https://arxiv.org/pdf/1412.4864.pdf)
+[[pdf]](https://arxiv.org/pdf/1412.4864.pdf)
 
 - Semisupervised learning with deep generative models.
 [[pdf]](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
